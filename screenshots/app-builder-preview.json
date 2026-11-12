@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VXOAI",
+      "hasCanvas": false,
+      "bodyTextLen": 515,
+      "bodyTextHash": "26fa916d35fd013c54f5cc50c97da9c70382a32d3690ddb87a5a07d091e2fb6b",
+      "bodyTextPrefix": "VX VXOAI Siêu ứng dụng kỷ nguyên AI NGAME ỦNG HỘ VXOAI · SIÊU ỨN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VXOAI",
+      "hasCanvas": false,
+      "bodyTextLen": 488,
+      "bodyTextHash": "aec6977062f47651d3204b52de2ff1b2323ea2861395aaa84c8b348511730aff",
+      "bodyTextPrefix": "VX VXOAI NGAME ỦNG HỘ VXOAI · SIÊU ỨNG DỤNG KỶ NGUYÊN AI VXOAI ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SIÊU ỨNG DỤNG CÁ NHÂN AI",
+  "short_name": "SIÊU APP",
+  "description": "Siêu ứng dụng cá nhân thời gian thực đáp ứng nhu cầu con người trong kỷ nguyên AI - BULONL + NGAME + DSPSS + CU2/13",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#002F6C",
+  "theme_color": "#002F6C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "lang": "vi"
+}

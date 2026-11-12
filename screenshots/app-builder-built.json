@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VXOAI",
+      "hasCanvas": false,
+      "bodyTextLen": 765,
+      "bodyTextHash": "703fa68b141a229db56a0993244ea71391575909eaba3a651c9e814ebd28d8a4",
+      "bodyTextPrefix": "VX VXOAI Siêu ứng dụng kỷ nguyên AI NGAME ỦNG HỘ VXOAI · KỶ NGUY",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VXOAI",
+      "hasCanvas": false,
+      "bodyTextLen": 738,
+      "bodyTextHash": "cb08474d4efe2981761a9404969303e8a995c3e47afbc4aad8af25eab4f33c9d",
+      "bodyTextPrefix": "VX VXOAI NGAME ỦNG HỘ VXOAI · KỶ NGUYÊN AI · THỨ NĂM 12.11.2026 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (515 -> 765 chars, hash mismatch)",
+    "mobile: body text changed (488 -> 738 chars, hash mismatch)"
+  ]
+}
